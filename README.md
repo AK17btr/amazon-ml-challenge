@@ -1,5 +1,6 @@
 # amazon-ml-challenge
-![Uploading image.png…]()
+![68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d68747470732533412532462532466d656469612d666173746c792e6861636b657265617274682e636f6d2532466d656469612532466861636b6174686](https://github.com/user-attachments/assets/a035380a-4b0b-48ed-a3fe-f6212c437ac1)
+
 
 A team-participation challenge was held on April 21, 2023, 12:00 AM IST–April 23, 2023, where a solution was to be built for the given problem statement. This repository consists of a Jupyter notebook that contains the code we submitted under the name of our team, TALISMANIC VADERS and with an accuracy of 20.42677, we ranked 290 among 4898 teams.
 
